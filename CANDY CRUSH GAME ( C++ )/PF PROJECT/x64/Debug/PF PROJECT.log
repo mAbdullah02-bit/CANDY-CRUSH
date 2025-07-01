@@ -1,0 +1,5 @@
+﻿  Final 0.cpp
+C:\Users\HP\OneDrive - FAST National University\Desktop\23F-0581-23F-0685-CANDYCRUSH\PF PROJECT\PF PROJECT\Final 0.cpp(774,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\OneDrive - FAST National University\Desktop\23F-0581-23F-0685-CANDYCRUSH\PF PROJECT\PF PROJECT\Final 0.cpp(820,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\OneDrive - FAST National University\Desktop\23F-0581-23F-0685-CANDYCRUSH\PF PROJECT\PF PROJECT\Final 0.cpp(984,17): warning C4101: 'score': unreferenced local variable
+  PF PROJECT.vcxproj -> C:\Users\HP\OneDrive - FAST National University\Desktop\23F-0581-23F-0685-CANDYCRUSH\PF PROJECT\x64\Debug\PF PROJECT.exe
